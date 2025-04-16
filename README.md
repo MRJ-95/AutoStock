@@ -3,14 +3,23 @@ README.md
 ├── scraper/
 
 │   ├── stock_scraper.py
+
 │   └── requirements.txt
+
 ├── airflow/
+
 │   └── dags/
+
 │       └── stock_pipeline.py
+
 ├── database/
+
 │   └── schema.sql
+
 ├── config/
+
 │   └── config.ini.example
+
 └── docker-compose.yml
 
 
