@@ -1,5 +1,6 @@
 Folder Structure if you clone.
 README.md
+
 ├── scraper/
 
 │   ├── stock_scraper.py
